@@ -1,7 +1,7 @@
 {
     "name": "horoscopes",
     "description": "Horoscopes dot.js for node.js",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Charlie Somerville",
     "dependencies": {
         "cheerio": "0.13.1"
