@@ -1,0 +1,14 @@
+{
+    "name": "horoscopes",
+    "description": "Horoscopes dot.js for node.js",
+    "version": "0.0.1",
+    "author": "Charlie Somerville",
+    "dependencies": {
+        "cheerio": "0.13.1"
+    },
+    "keywords": [
+        "horoscopes"
+    ],
+    "repository": "https://github.com/charliesome/horoscopes",
+    "license": "AGPL"
+}
